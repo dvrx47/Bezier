@@ -1,0 +1,1 @@
+prosta implementacja krzywych beziera
